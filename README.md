@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am looking for a Junior Frontend vacancy<br>
+Working with:<br>
+-> Pug<br>
+-> Sass<br>
+-> Vue.js<br>
+-> Gulp<br>
 
 <!--
 **Altereyo/Altereyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
