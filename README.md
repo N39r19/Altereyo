@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am Junior Frontend dev<br>
 Also working with Flutter<br>
+<br>
 Main skills:<br>
 -> Pug<br>
 -> Sass<br>
