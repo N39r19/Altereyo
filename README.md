@@ -1,9 +1,11 @@
 ### Hi there 👋
-I am looking for a Junior Frontend vacancy<br>
-Working with:<br>
+I am Junior Frontend dev<br>
+Also working with Flutter<br>
+Main skills:<br>
 -> Pug<br>
 -> Sass<br>
 -> Vue.js<br>
+-> React.js<br>
 -> Gulp<br>
 
 <!--
