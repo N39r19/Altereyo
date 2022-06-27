@@ -1,13 +1,5 @@
 ### Hi there 👋
-I am Junior Frontend && Android dev from Moscow<br>
-<br>
-👨‍💻 I’m currently working on React.js && Flutter<br>
-<br>
-Other skills:<br>
-💚 Vue.js<br>
-🖍 Sass/SCSS<br>
-🐶 Pug<br>
-🍹 Gulp<br>
+👨‍💻 I am React && Flutter dev from Moscow<br>
 
 <!--
 **Altereyo/Altereyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
