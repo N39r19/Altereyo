@@ -1,5 +1,5 @@
 ### Hi there 👋
-👨‍💻 I am React && Flutter dev from Moscow<br>
+👨‍💻 I am Flutter & React.js developer from Moscow<br>
 
 <!--
 **Altereyo/Altereyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
