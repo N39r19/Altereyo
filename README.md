@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Altereyo](https://github.com/Altereyo)
+# 👋 Hi there! I'm [Grigoriy](https://github.com/N39r19)
 
 🚀 **Flutter Developer from Moscow**  
 💻 Passionate about building beautiful and functional mobile applications.  
@@ -19,13 +19,13 @@ I actively solve challenges on Codewars to keep my skills sharp.
 ---
 
 ### 📈 GitHub Stats:
-![Altereyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altereyo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altereyo&layout=compact&theme=radical)  
+![N39r19's GitHub stats](https://github-readme-stats.vercel.app/api?username=N39r19&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N39r19&layout=compact&theme=radical)  
 
 ---
 
 ### 📫 How to Reach Me:
-- **Telegram**: [@Altereyo](https://t.me/Altereyo)  
+- **Telegram**: [@Altereyo](https://t.me/n39r19)  
 <!--
 - **Email**: altereyo.dev@gmail.com  
 - **LinkedIn**: [Altereyo](https://www.linkedin.com/in/altereyo/)  
